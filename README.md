@@ -1,5 +1,6 @@
 Proving Grounds Practice Writeups:
 
-    Helpdesk (win)
-    Slort (win)
-    Nickel (win)
+- Helpdesk (win)
+- Slort (win)
+- Nickel (win)
+- AuthBy (win)
