@@ -238,6 +238,8 @@ As instructed in the exploit we can compile the exploit with:
 ```sh
 i686-w64-mingw32-gcc MS11-046.c -o MS11-046.exe -lws2_32
 ```
-Now we need to upload teh binary on to the target machine with certutil.
+Now we need to upload the binary on to the target machine with certutil.
 
 ![](proof.png)
+
+We ate the kernel by cracking the nut!
