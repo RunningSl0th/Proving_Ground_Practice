@@ -88,7 +88,7 @@ Boom! we have a shell as rupert!
 
 ![](rupertshell.png)
 
-# Privilge Escalation
+# Privilege Escalation
 When perfomring enumeration for privilege escalation it's always good practice to look for non-default files and folders is C:\ and Program Files.
 In the C:\ directory we find  C:\Backup. There is a info.txt file. This is info for the user but might contain useful info for us.
 
