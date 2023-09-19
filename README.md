@@ -7,3 +7,4 @@ Proving Grounds Practice Writeups:
 5. Jacko (win)
 6. Algernon (win)
 7. Squid (win)
+8. BlackGate (lin)
