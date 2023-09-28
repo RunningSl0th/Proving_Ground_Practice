@@ -60,8 +60,10 @@ We can monitor all processes with pspy64 and we see that '/bin/bash /var/www/cle
 
 
 Now we will put some code we want to get executed to the cleanup.sh script. We can use the same reverse shell as before.
+
 ![](echo.png)
 
 
 Yeah!!
+
 ![](proof.png)
