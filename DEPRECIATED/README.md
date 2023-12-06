@@ -61,6 +61,8 @@ PORT     STATE SERVICE REASON  VERSION
 # Port 80
 Whatweb summary:  Bootstrap[4.1.1], HTML5, HTTPServer[Ubuntu Linux][nginx/1.18.0 (Ubuntu)], JQuery[3.2.1], nginx[1.18.0], Script
 
+
+![](80.png)
 The page shows us a message that we have  to use the CLI application on port 5132, which was open according to our nmap scan
 
 In the page source we see a note which gives us extra information:
