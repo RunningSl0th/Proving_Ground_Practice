@@ -16,3 +16,5 @@ Proving Grounds Practice Writeups:
 14. crane
 15. Depreciated
 16. Pelican
+17. Exfiltraded
+18. Twiggy
