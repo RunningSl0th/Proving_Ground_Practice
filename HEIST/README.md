@@ -204,7 +204,7 @@ hashcat -m 5600 ntlmv2.txt rockyou.txt
 ```
 Boom! We have a password.
 
-![](password.png)
+![](hashcat.png)
 
 Now let's see if we can log in to the machine! We have luck with evil-winrm
 
