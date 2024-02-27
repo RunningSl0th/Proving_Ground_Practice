@@ -18,3 +18,4 @@ Proving Grounds Practice Writeups:
 16. Pelican
 17. Exfiltraded
 18. Twiggy
+19. Heist (win/ad)
