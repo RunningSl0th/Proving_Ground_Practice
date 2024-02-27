@@ -137,8 +137,8 @@ dnsrecon -t axfr -d heist.offsec -n  192.168.155.165
 ```
 Only one entry which we already got from our nmap scan.
 
-#port 139
-To get additionanl information we use the command:
+# port 135
+To get additional information we use the command:
 ```sh
 impacket-rpcdump dc01.heist.offsec
 ```
